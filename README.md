@@ -15,8 +15,9 @@
  ![Mobile](<readimg/Screen Shot 2024-04-14 at 16.49.01.png>)
 
  ## Preview My Website
-<a href="https://templatestar.github.io/Cafe-Street/"> Preview My Website</a>
+<a href="https://templatestar.github.io/Cafe-Street/"> Preview My created Website</a>
 
 
  ## Credits:
- ![alt text](readimg/image.png)
+ <a href="https://rauliqbal.my.id/">rauliqbal</a>
+ 
